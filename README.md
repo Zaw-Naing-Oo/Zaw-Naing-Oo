@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaw Naing Oo</h1>
 <h3 align="center">A passionate Backend Developer from Myanmar</h3>
 
-- 👨‍💻 All of my projects are available at [https://zawnaingoo.vercel.app](https://zawnaingoo.vercel.app)
+- 👨‍💻 All of my projects are available at [https://zawnaingoo.me)
 
 - 💬 Ask me about **react nodejs**
 
