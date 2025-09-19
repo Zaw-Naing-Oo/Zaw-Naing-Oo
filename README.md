@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zaw Naing Oo</h1>
 <h3 align="center">A passionate Backend Developer from Myanmar</h3>
 
-- 👨‍💻 All of my projects are available at https://zawnaingoo.me
+- 👨‍💻 All of my projects are available at [https://zawnaingoo.me](https://zawnaingoo.onrender.com)
 
 - 💬 Ask me about **react nodejs**
 
-- 📫 How to reach me **zawnaingoo002345@gmail.com**
+- 📫 How to reach me **zawnaingoo.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am passionate in coding**
 
